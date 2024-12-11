@@ -58,7 +58,7 @@ Welcome to my GitHub portfolio! This is a brief overview of my work in **AI**, *
 ---
 
 ## 📊 Future Public Repos
-- 🌍 **Public Repository Releases:** Ensure private projects are polished and meet documentation standards before making them public.
+
 - 🤝 **Generative AI & RAG Expansion:** Build scalable solutions integrating retrieval, automation, and generative capabilities.
 - 🧠 **Predictive ML & Data Science Tools:** Focus on developing integrative platforms for better decision-making.
 - 🏥 **Healthcare AI & APIs:** Focus on practical deployment for impactful applications.
@@ -66,7 +66,7 @@ Welcome to my GitHub portfolio! This is a brief overview of my work in **AI**, *
 ---
 
 ## 🚨 Note on Professional Work
-This portfolio showcases my personal projects. For more advanced work, I contribute to repositories under the **professional GitHub profile** of the company I currently work for. Due to confidentiality, these projects cannot be disclosed publicly.
+This portfolio showcases my personal projects. For more advanced work, I contribute to repositories are privated of the company I currently work for. Due to confidentiality, these projects cannot be disclosed publicly.
 
 ---
 
