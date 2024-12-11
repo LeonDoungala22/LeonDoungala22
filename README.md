@@ -40,7 +40,7 @@ Welcome to my GitHub portfolio! This is a brief overview of my work in **AI**, *
 - 💾 SQL
 - ⚙️ C++
 
-### 🧰 **Frameworks & Libraries**
+### 🧰 **Main Frameworks & Libraries**
 - 🔗 LangChain
 - 🔬 TensorFlow
 - 🔥 PyTorch
