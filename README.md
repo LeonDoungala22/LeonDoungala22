@@ -1,8 +1,13 @@
 # 🚀 Welcome to My AI, ML, and Data Science Portfolio  
 
-Hi there! I'm **Leon Doungala**, an **AI/ML Engineer** dedicated to building cutting-edge solutions that leverage **Artificial Intelligence**, **Machine Learning**, **Generative AI**, **RAG (Retrieval-Augmented Generation)**, and **Data Science**.  
+Hello! I'm **Leon Doungala**, an **AI/ML Engineer** passionate about crafting innovative solutions powered by **Artificial Intelligence**, **Machine Learning**, **Generative AI**, **RAG (Retrieval-Augmented Generation)**, and **Data Science**.  
 
-Here, you'll find highlights of my work, including predictive analytics, semantic search systems, and advanced healthcare AI applications.  
+This portfolio showcases highlights of my professional work and academic projects, featuring predictive analytics, semantic search systems, and cutting-edge healthcare AI applications.  
+
+Explore my projects and follow my portfolio website to delve into more details and access my GitHub repositories:  
+🌐 [Portfolio Website](https://leondoungala22.github.io/doungala.leon.github.io/ml_and_ds_portfolio.html)  
+
+
 
 ---
 
